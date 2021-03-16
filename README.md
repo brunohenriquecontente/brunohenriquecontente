@@ -45,7 +45,7 @@
 
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php)&nbsp;
 
-![Java](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
+![Java](https://img.shields.io/badge/-JAVA-05122A?style=for-the-badge&logo=java)&nbsp;
 
 
 
