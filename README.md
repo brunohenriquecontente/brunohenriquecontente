@@ -24,7 +24,7 @@
 
 ### Conhecimentos nas áreas:
 
-# Em construção !
+[comment]: <> (Em construção !)
 
 [//]: <> (** ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=for-the-badge&logo=MYSQL)&nbsp;)
 
