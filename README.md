@@ -1,4 +1,4 @@
-## Olá, eu sou o ![BrunoHenrique](https://img.shields.io/badge/%20-BRUNO%20HENRIQUE!-ORANGE)
+## ![BrunoHenrique](https://img.shields.io/badge/%20-EU%20SOU%20O%20BRUNO%20HENRIQUE!-ORANGE)
 
 <p>
 
