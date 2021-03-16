@@ -1,4 +1,4 @@
-# Olá, eu sou o ![Bruno Henrique](https://img.shields.io/badge/BRUNO-HENRIQUE-!-ORANGE) :gravata:
+Olá, eu sou o ![BrunoHenrique](https://img.shields.io/badge/BRUNO HENRIQUE-!-ORANGE) :gravata:
 
 <p>
 
@@ -24,13 +24,17 @@
 
 ### Conhecimentos nas áreas:
 
-<! - 
-** ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=for-the-badge&logo=MYSQL)&nbsp;
-** ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp; 
+# Em construção !
+
+[//]: <> (** ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=for-the-badge&logo=MYSQL)&nbsp;)
+
+[//]: <> (![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;) 
 
 ### Estudando no momento:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+
+![FrontEnd](https://img.shields.io/badge/-FrontEnd-05122A?style=for-the-badge&logo=frontend)&nbsp;
 
 
 ### Áreas de Interesse:
@@ -39,7 +43,7 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
 
-![PHP](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php)&nbsp;
 
 ![Java](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
 
