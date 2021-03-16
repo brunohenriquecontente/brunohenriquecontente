@@ -1,4 +1,4 @@
-## Olá, eu sou o ![BrunoHenrique](https://img.shields.io/badge/BRUNO-HENRIQUE!-ORANGE)
+## Olá, eu sou o ![BrunoHenrique](https://img.shields.io/badge/%20-BRUNO%20HENRIQUE!-ORANGE)
 
 <p>
 
@@ -24,11 +24,8 @@
 
 ### Conhecimentos nas áreas:
 
-[comment]: <> (Em construção !)
-
-[//]: <> (** ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=for-the-badge&logo=MYSQL)&nbsp;)
-
-[//]: <> (![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;) 
+[comment]: <> ( ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=for-the-badge&logo=MYSQL;)
+[comment]: <> ( ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)
 
 ### Estudando no momento:
 
@@ -44,6 +41,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
 
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php)&nbsp;
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
 
 ![Java](https://img.shields.io/badge/-JAVA-05122A?style=for-the-badge&logo=java)&nbsp;
 
