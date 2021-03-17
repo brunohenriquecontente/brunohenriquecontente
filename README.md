@@ -67,7 +67,7 @@
 
 <a href="https://instagram.com/brunohenriquecontente" target="_blank"><img src="https://img.shields.io/badge/-@brunohenriquecontente-C13584?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
- <!-- ### 🎯 Conhecimentos nas áreas:
+<!-- 🎯 Conhecimentos nas áreas:
 [comment]: <> ( ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=for-the-badge&logo=MYSQL;)
 [comment]: <> ( ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)
-//–>
+-->
