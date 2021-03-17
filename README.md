@@ -27,9 +27,7 @@
 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;  
 
- <!-- ### 🎯 Conhecimentos nas áreas:
-[comment]: <> ( ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=for-the-badge&logo=MYSQL;)
-[comment]: <> ( ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)
+
 
 ### 🔍 Estudando no momento:
 
@@ -53,7 +51,6 @@
 ![Java](https://img.shields.io/badge/-JAVA-05122A?style=for-the-badge&logo=java)&nbsp;
 
 
-
 ### 📈 GitHub Analytics
 
 <p align="left">
@@ -70,3 +67,7 @@
 
 <a href="https://instagram.com/brunohenriquecontente" target="_blank"><img src="https://img.shields.io/badge/-@brunohenriquecontente-C13584?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
+ <!-- ### 🎯 Conhecimentos nas áreas:
+[comment]: <> ( ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=for-the-badge&logo=MYSQL;)
+[comment]: <> ( ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)
+//–>
