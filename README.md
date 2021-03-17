@@ -7,7 +7,7 @@
 
 <p>
 
-#### ⚡ Principais Habilidades e Conhecimentos:
+### ⚡ Principais Habilidades e Conhecimentos:
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)&nbsp;
 
@@ -15,7 +15,7 @@
 
 ![Algoritmo](https://img.shields.io/badge/-Algoritmos-05122A?style=for-the-badge&logo=algoritmos)&nbsp;
 
-#### 🛠 Ferramentas:
+### 🛠 Ferramentas:
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
@@ -27,19 +27,21 @@
 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;  
 
-#### 🎯 Conhecimentos nas áreas:
+### 🎯 Conhecimentos nas áreas:
 
 [comment]: <> ( ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=for-the-badge&logo=MYSQL;)
 [comment]: <> ( ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)
 
-#### 🔍 Estudando no momento:
+### 🔍 Estudando no momento:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 
 ![FrontEnd](https://img.shields.io/badge/-FrontEnd-05122A?style=for-the-badge&logo=frontend)&nbsp;
 
+▶ Inglês 
 
-#### 🚀 Áreas de Interesse:
+
+### 🚀 Áreas de Interesse:
 
 ![React Native](https://img.shields.io/badge/-React_native-05122A?style=for-the-badge&logo=react)&nbsp;
 
@@ -53,7 +55,7 @@
 
 
 
-#### 📈 GitHub Analytics
+### 📈 GitHub Analytics
 
 <p align="left">
   <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brunohenriquecontente&show_icons=true&theme=highcontrast"/>
@@ -61,7 +63,7 @@
   <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brunohenriquecontente&layout=compact&langs_count=8&theme=highcontrast"/>
 </p>
 
-#### ✨ Redes Sociais
+### ✨ Redes Sociais
 
 <a href="https://www.linkedin.com/in/brunohenriquecontente/" target="_blank"><img src="https://img.shields.io/badge/-Bruno Henrique-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
