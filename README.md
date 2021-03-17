@@ -27,8 +27,7 @@
 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;  
 
-### 🎯 Conhecimentos nas áreas:
-
+ <!-- ### 🎯 Conhecimentos nas áreas:
 [comment]: <> ( ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=for-the-badge&logo=MYSQL;)
 [comment]: <> ( ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)
 
@@ -38,7 +37,7 @@
 
 ![FrontEnd](https://img.shields.io/badge/-FrontEnd-05122A?style=for-the-badge&logo=frontend)&nbsp;
 
-▶ Inglês 
+▶ INGLÊS 
 
 
 ### 🚀 Áreas de Interesse:
