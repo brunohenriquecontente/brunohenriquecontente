@@ -35,7 +35,7 @@
 
 ![FrontEnd](https://img.shields.io/badge/-FrontEnd-05122A?style=for-the-badge&logo=frontend)&nbsp;
 
-▶ INGLÊS 
+![Inglês](https://img.shields.io/badge/-inglês-05122A?style=for-the-badge&logo=inglês)&nbsp;
 
 
 ### 🚀 Áreas de Interesse:
