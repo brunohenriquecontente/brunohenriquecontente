@@ -1,54 +1,27 @@
 ## 👔 ![BrunoHenrique](https://img.shields.io/badge/%20-EU%20SOU%20O%20BRUNO%20HENRIQUE!-ORANGE) 
 
 
-### 🎓 Formação Acadêmica:
-
+### 🎓 Formação Acadêmica: 
 #### 💻 Ciência da Computação
 
 <p>
 
 ### ⚡ Principais Habilidades e Conhecimentos:
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)&nbsp;
-
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-
-![Algoritmo](https://img.shields.io/badge/-Algoritmos-05122A?style=for-the-badge&logo=algoritmos)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)&nbsp; | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp; | ![Algoritmo](https://img.shields.io/badge/-Algoritmos-05122A?style=for-the-badge&logo=algoritmos)&nbsp;
 
 ### 🛠 Ferramentas:
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows)&nbsp;
-
-![Linux](https://img.shields.io/badge/-linux-05122a?style=for-the-badge&logo=linux)&nbsp;
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;  
-
-
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp; | ![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows)&nbsp; | ![Linux](https://img.shields.io/badge/-linux-05122a?style=for-the-badge&logo=linux)&nbsp; | ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp; | ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 
 ### 🔍 Estudando no momento:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-
-![FrontEnd](https://img.shields.io/badge/-FrontEnd-05122A?style=for-the-badge&logo=frontend)&nbsp;
-
-![Inglês](https://img.shields.io/badge/-inglês-05122A?style=for-the-badge&logo=inglês)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp; | ![FrontEnd](https://img.shields.io/badge/-FrontEnd-05122A?style=for-the-badge&logo=frontend)&nbsp; | ![Inglês](https://img.shields.io/badge/-inglês-05122A?style=for-the-badge&logo=inglês)&nbsp;
 
 
 ### 🚀 Áreas de Interesse:
 
-![React Native](https://img.shields.io/badge/-React_native-05122A?style=for-the-badge&logo=react)&nbsp;
-
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
-
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php)&nbsp;
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
-
-![Java](https://img.shields.io/badge/-JAVA-05122A?style=for-the-badge&logo=java)&nbsp;
+![React Native](https://img.shields.io/badge/-React_native-05122A?style=for-the-badge&logo=react)&nbsp; | ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp; | ![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php)&nbsp; | ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp; | ![Java](https://img.shields.io/badge/-JAVA-05122A?style=for-the-badge&logo=java)&nbsp;
 
 
 ### 📈 GitHub Analytics
