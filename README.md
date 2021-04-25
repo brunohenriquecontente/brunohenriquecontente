@@ -8,7 +8,7 @@
 
 ### ⚡ Principais Habilidades e Conhecimentos:
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)&nbsp; | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp; | ![Algoritmo](https://img.shields.io/badge/-Algoritmos-05122A?style=for-the-badge&logo=algoritmos)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)&nbsp; | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 
 ### 🛠 Ferramentas:
 
