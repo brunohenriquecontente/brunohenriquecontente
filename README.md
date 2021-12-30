@@ -8,11 +8,11 @@
 
 ### ⚡ Principais Habilidades e Conhecimentos:
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)&nbsp; | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)&nbsp; | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp; | ![CSS](https://img.shields.io/badge/-SPRINGBOOT-05122A?style=for-the-badge&logo=SPRINGBOOT&logoColor=1572B6)&nbsp; | ![CSS](https://img.shields.io/badge/-JAVA-05122A?style=for-the-badge&logo=JAVA&logoColor=1572B6)&nbsp;
 
 ### 🛠 Ferramentas:
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp; | ![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows)&nbsp; | ![Linux](https://img.shields.io/badge/-linux-05122a?style=for-the-badge&logo=linux)&nbsp; | ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp; | ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp; | ![Trello](https://img.shields.io/badge/-Trello-05122A?style=for-the-badge&logo=trello)&nbsp; | ![CodePen Badge](https://img.shields.io/badge/Codepen-05122A?style=for-the-badge&logo=codepen)
+![Intellij](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp; | ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp; | ![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows)&nbsp; | ![Linux](https://img.shields.io/badge/-linux-05122a?style=for-the-badge&logo=linux)&nbsp; | ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp; | ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp; | ![Trello](https://img.shields.io/badge/-Trello-05122A?style=for-the-badge&logo=trello)&nbsp; | ![CodePen Badge](https://img.shields.io/badge/Codepen-05122A?style=for-the-badge&logo=codepen)
 ### 🔍 Estudando no momento:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp; | ![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=PHP)&nbsp; | ![Inglês](https://img.shields.io/badge/-inglês-05122A?style=for-the-badge&logo=inglês)&nbsp;
