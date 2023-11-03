@@ -2,7 +2,7 @@
 
 
 ### 🎓 Formação Acadêmica: 
-#### 💻 Ciência da Computação
+#### 💻  Bacharelado em Ciência da Computação
 
 <p>
 
